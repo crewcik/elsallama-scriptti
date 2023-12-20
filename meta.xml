@@ -1,0 +1,5 @@
+<meta>
+	<info name="El sallama scriptti" version="1" type="misc" author="Crew" description="/elsalla yazarak oyuncu el sallar."/>
+	<script src="crew.lua" type="server"/>
+</meta>
+
